@@ -3,7 +3,7 @@
 
 function xxx()
 {
-	return "go home Branch";
+	return "new Branch newBranch";
 }
 echo "Let's do it! ".xxx();
 
