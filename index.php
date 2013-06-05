@@ -1,3 +1,7 @@
 <?php
-echo "Let's do it!";
+function xxx()
+{
+	return "go home";
+}
+echo "Let's do it! ".xxx();
 ?>
